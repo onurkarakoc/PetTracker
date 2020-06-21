@@ -2,9 +2,9 @@ import firebase from 'firebase';
 import 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyAjQZ0Cu6D0w-g5USoM80tl6CF11Cixiw8',
-  authDomain: 'petracker-45420.firebaseapp.com',
-  databaseURL: 'https://petracker-45420.firebaseio.com',
+  apiKey: xxxxxxxxxxx,
+  authDomain: xxxxxxx,
+  databaseURL: xxxxxxxxxx,
   projectId: 'petracker-45420',
   storageBucket: 'petracker-45420.appspot.com',
   messagingSenderId: '844836816501',
